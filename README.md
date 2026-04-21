@@ -158,16 +158,3 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 👨‍💻 Author
-- **Name**: Govind Kulkarni
-- **Email**: [kulkarnigovind2003@gmail.com]
-- **LinkedIn**: [LinkedIn: Govind Kulkarni](https://www.linkedin.com/in/govind-kulkarni-44aa71228/)
-
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/govindKulk/farmconnect-expo-rn/issues).
-
----
-
